@@ -1,6 +1,6 @@
 # Carnivore
 
-### Description
+### Introduction and Purpose
 
 This notebook compares the world's most popular meat production (beef, chicken, and swine/pig) to the world's population over time (from the year $1961$ to the year $2021$). The goal is to determine whether food production is keeping up with global population growth.
 
