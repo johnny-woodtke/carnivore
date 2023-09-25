@@ -12,7 +12,7 @@ The world's meat production data was gathered from the [Food and Agriculture Org
 
 ### Population
 
-The world's population data was gathered from the [United Nations' Data Portal of the Population Division](https://population.un.org/dataportal/data/indicators/49/locations/900/start/1961/end/2021/table/pivotbylocation). The following image displays the constraints used to derive the CSV of total human population:
+The world's population data was gathered from the [United Nations' Population Division](https://population.un.org/dataportal/data/indicators/49/locations/900/start/1961/end/2021/table/pivotbylocation). The following image displays the constraints used to derive the CSV of total human population:
 
 ![Population Data Constraints](population_data_constraints.png "Population Data Constraints")
 
