@@ -18,6 +18,8 @@ The world's population data was gathered from the [United Nations' Population Di
 
 ### Takeaways
 
+![Kcal Per Capita](kcal_per_capita.png "Global Carniverous Kcal Production Per Capita")
+
 Maximum meat-calorie production was $162,000$ kcal per capita in the year $1967$. This means that everyone in the world could derive $457$ kcal of energy from meat per day. Since then, per capita meat-calorie production has decreased by $27.8\\%$ to $117,000$ kcal in $2021$. Thus, now everyone can only derive $321$ kcal of energy from meat per day.
 
 These figures only account for front-end waste (i.e., discarded organs, bones, etc.). Imagine how many fewer calories the world actually derives from meat if we account for the back-end waste (i.e., unfinished steaks, rotten rotisserie chickens, etc.).
